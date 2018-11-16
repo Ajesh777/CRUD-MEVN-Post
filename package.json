@@ -1,0 +1,40 @@
+{
+  "name": "crud-mevn",
+  "version": "1.0.0",
+  "description": "Mongo Db, Express, Vue, Node - npm, Create, Read, Update, Delete, Posts, S.P.A",
+  "main": "index.js",
+  "scripts": {
+    //change this: "test": "echo \"Error: no test specified\" && exit 1" to:
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "keywords": [
+    "MEVN",
+    "CRUD",
+    "Posts",
+    "SPA",
+    "Mongo",
+    "Db",
+    "Express",
+    "Vue",
+    "Node",
+    "npm",
+    "Create",
+    "Read",
+    "Update",
+    "Delete",
+    "Posts",
+    "Single",
+    "Page",
+    "Aplication",
+    "Heroku",
+    "full",
+    "stack",
+    "web",
+    "development",
+    "training",
+    "git"
+  ],
+  "author": "Ajesh",
+  "license": "MIT"
+}
