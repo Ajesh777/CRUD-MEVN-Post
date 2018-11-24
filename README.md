@@ -1,10 +1,12 @@
 # CRUD-MEVN-Post
+```
 | CRUD | MEVN | SPA | Post | Mongo Db | Express | Vue | Node | npm | Create | Read | Update | Delete | Single Page Application | Post App | Herok |
+```
 
 ## Follow the Instruction Below to learn & create your own CRUD-MEVN-Post:
 
-* 1: Create a New Project Folder
-* 2: Open Terminal or cmd prompt 
+* 1: Create a **New Project** Folder
+* 2: Open **Terminal** or **cmd prompt** 
 * 3: Terminal: ```npm i express cors body-parser mongodb```
 * 4: Terminal: ```npm i D nodemon```
 * 5: Go to Package.json & modify the script ```[test : ""]``` with
