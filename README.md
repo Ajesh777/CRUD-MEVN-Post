@@ -1,5 +1,5 @@
 # CRUD-MEVN-Post
-CRUD, MEVN, SPA, Post, Mongo Db, Express, Vue, Node, npm, Create, Read, Update, Delete, Single Page Application, Post App, Heroku
+| CRUD | MEVN | SPA | Post | Mongo Db | Express | Vue | Node | npm | Create | Read | Update | Delete | Single Page Application | Post App | Herok |
 
 ## Follow the Instruction Below to learn & create your own CRUD-MEVN-Post:
 
