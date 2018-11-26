@@ -79,7 +79,7 @@ keypress ```ctr+c``` to stop Client]
 * 71: create & go to ```/client/vue.config.js``` & follow the ```comments 72 - 73```
 * 74.1: In client Terminal: ```ctrl + c``` to Stop client
 * 74.2: In client Terminal: ```npm run build```
-  - follow folder/file: ```ScreenShots/8.png```
+  - follow folder/file: ```ScreenShots/9.png```
 
 >Creating App production ready for Heroku
 ---
