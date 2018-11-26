@@ -18,6 +18,11 @@
     "dev": "nodemon server/index.js"
 ```
 then save it.
+
+---
+>Creating Server or Backend
+---
+
 * 6: Terminal: ```mkdir server```
 * 7: Terminal: ```cd server```
 * 8: Terminal: ```touch index.js```
@@ -39,3 +44,18 @@ then save it.
 * 43: Terminal: ```vue create client```
 * 44: Terminal: ```git init```
 * 45: ```git add .``` && ```git commit -m 'Initial Backend Created'```
+
+---
+>Creating Client or Frontend
+---
+
+* 43: Terminal: ```vue create client```
+* 44: Terminal: ```git init```
+* 45.1: Terminal: ```git add .``` 
+* 45.2: Terminal: ```git commit -m 'Initial Frontend Created'```
+* 46: Terminal: ```cd client```
+* 47: Terminal: ```npm run serve```
+* 48: Client will be on ```localhost:8080```
+* 49: Go to ```client/src/components/```
+* 50: change ```HelloWorld.vue``` to ```PostComponent.vue```
+* 51: Go to ```client/src/App.vue```

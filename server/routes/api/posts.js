@@ -40,13 +40,16 @@ router.get('/', async (req, res) => {
 // 37: Create Route to Update
 router.put('/:id', async (req, res) => {
     const posts = await loadPostsCollection();
-    await posts.updateOne({
-        _id: new mongodb.ObjectID(req.params.id)
-    }, {
-        $set: {
-            "text": req.body.text
+    await posts.updateOne(
+        {
+            _id: new mongodb.ObjectID(req.params.id)
+        }, 
+        {
+            $set: {
+                "text": req.body.text
+            }
         }
-    });
+    );
     res.status(201).send();
 });
 
