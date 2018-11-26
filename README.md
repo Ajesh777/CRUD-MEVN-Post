@@ -86,13 +86,14 @@ keypress ```ctr+c``` to stop Client]
 
 * 75: Handle Production in ```/server/index.js``` follow the ```comments 75.1 - 75.2```
 * 76: In **server** Terminal: ```ctrl + c```
-* 77: Terminal: ```git add .``` && ```git   commit -m 'Added Static folder & prep SPA'```
+* 77.1: Terminal: ```git add .``` && ```git   commit -m 'Added Static folder & prep SPA'```
+* 77.2: Terminal: ```git push -u origin master```
 * 78: Create Heroku Account & install Heroku
 * 79: Terminal: ```heroku login```
 * 80: Terminal: ```heroku create```
 * 81: Terminal: ```heroku open```
 * 82: grab the heroku repository
-* 83: Terminal: ```heroku git:remote -a stormy-everglades-33297```
+* 83: Terminal: ```heroku git:remote -a crud-mevn-post```
 * 84: Terminal: ```git status```
 * 85: Terminal: ```git push heroku master```
 * 86: Terminal: ```heroku open```
