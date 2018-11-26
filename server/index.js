@@ -17,6 +17,16 @@ const posts = require('./routes/api/posts');
 app.use('/api/posts', posts);
 
 
+// 75.1 :Handle production
+if (process.env.NODE_ENV === 'production') {
+    // 75.2:  Static folder
+    app.use(express.static(__dirname + '/public/'));
+
+    // 75.3: Handle SPA
+    app.get(/.*/, (req, res) => res.sendFile(__dirname + '/public/index.html'));
+}
+
+
 // 17: Define Port No
 const port = process.env.PORT || 5005;
 

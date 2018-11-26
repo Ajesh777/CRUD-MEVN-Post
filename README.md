@@ -12,7 +12,7 @@
 * 2: Open **Terminal** or **cmd** prompt & ```cd``` into the **New Project** Folder.
 * 3: Terminal: ```npm i express cors body-parser mongodb```
 * 4: Terminal: ```npm i D nodemon```
-* 5: Go to Package.json & modify the script ```[test : ""]``` with
+* 5: Go to **Package.json** & modify the script ```[test : ""]``` with
 ```javascript
     "start": "node server/index.js",
     "dev": "nodemon server/index.js"
@@ -39,7 +39,7 @@ then save it.
 * 27: Go to ```./server/index.js``` & follow the ```comments 28-29```
 * 30: Go to ```./server/api/posts.js``` & follow the ```comments 31-39```
   - Install ```Postman`` & follow folder/file:
-    1. ```ScreenShots/2.png```
+    1.  ```ScreenShots/2.png```
     1.  ```ScreenShots/3.png```
     1.  ```ScreenShots/4.png```
     1.  ```ScreenShots/5.png```
@@ -66,3 +66,7 @@ then save it.
 * 52.2: Terminal: ```git commit -am 'Initial Frontend Created'```
 * 52.3: Terminal: ```git push -u origin master```
  
+>Creating CRUD-MEVN-Post Client / Frontend
+
+* 53: Stop the **Client** ```http://localhost:8080``` [@Terminal client: **App running..**  
+keypress ```ctr+c``` to stop Client]
