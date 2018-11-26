@@ -98,5 +98,7 @@ keypress ```ctr+c``` to stop Client]
 * 85: Terminal: ```git push heroku master```
 * 86: Terminal: ```heroku open```
 
+>Visit the live production site @ https://crud-mevn-post.herokuapp.com/
+
 >Done with production ready Heroku CRUD-MEVN-Post App, Hope I was able to help you with basics of MEVN stack.
 ---
