@@ -20,6 +20,7 @@
 then save it.
 
 >Creating Server or Backend
+---
 
 * 6: Terminal: ```mkdir server```
 * 7: Terminal: ```cd server```
@@ -42,9 +43,10 @@ then save it.
 * 43: Terminal: ```vue create client```
 * 44: Terminal: ```git init```
 * 45: ```git add .``` && ```git commit -m 'Initial Backend Created'```
-* 45.1: Terminal: ```git push -u origin master`
+* 45.1: Terminal: ```git push -u origin master```
 
 >Creating Client or Frontend
+---
 
 * 46: Go to ```client/src/components/```
 * 47: change ```HelloWorld.vue``` to ```ostComponent.vue```
@@ -52,5 +54,6 @@ then save it.
 * 49: change all ```HelloWorld``` to ```PostComponent``` & Save all.
 * 50: Terminal: ```cd client```
 * 51: Terminal: ```npm run serve```
-* 52: Client will be on ```localhost:8080```
-* 52.1: Terminal: ```git commit -am 'Initial Frontend Created'```
+* 52.1: Client will be on ```localhost:8080```
+* 52.2: Terminal: ```git commit -am 'Initial Frontend Created'```
+* 53.3: Terminal: ```git push -u origin master```
