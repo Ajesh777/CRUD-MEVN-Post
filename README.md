@@ -53,4 +53,4 @@ then save it.
 * 50: Terminal: ```cd client```
 * 51: Terminal: ```npm run serve```
 * 52: Client will be on ```localhost:8080```
-* 52.1: Terminal: ```git commit -am "Initial Frontend Created```
+* 52.1: Terminal: ```git commit -am 'Initial Frontend Created'```
