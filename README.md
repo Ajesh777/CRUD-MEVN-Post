@@ -39,12 +39,12 @@ then save it.
 * 27: Go to ```./server/index.js``` & follow the ```comments 28-29```
 * 30: Go to ```./server/api/posts.js``` & follow the ```comments 31-39```
   - Install ```Postman`` & follow folder/file:
-  1. ```ScreenShots/2.png```
-  1.  ```ScreenShots/3.png```
-  1.  ```ScreenShots/4.png```
-  1.  ```ScreenShots/5.png```
-  1.  ```ScreenShots/6.png```
-  1.  ```ScreenShots/7.png```
+    1. ```ScreenShots/2.png```
+    1.  ```ScreenShots/3.png```
+    1.  ```ScreenShots/4.png```
+    1.  ```ScreenShots/5.png```
+    1.  ```ScreenShots/6.png```
+    1.  ```ScreenShots/7.png```
 * 40: Terminal: ```npm i -g @vue/cli```
 * 41: Terminal: ```posts/touch .gitignore```
 * 42: Go to ```.gitignore``` & put files to be ignored.
